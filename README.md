@@ -1,5 +1,6 @@
-# D-Learning-
-# Learning D by Example
+# D-Learning-And-Other
+# Learning D and Other by Example
+# More about D
 
 A comprehensive guide to the D programming language with practical code examples.
 
